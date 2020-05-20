@@ -6,7 +6,7 @@ This github repository hosts the code for extracting anti-patterns from inconsis
 
 The knowledge base generator is an all encompassing piece of software designed for extracting anti-patterns from inconsistent knowledge graphs.
 
-The code has been made available for reproducing the results we show in our papers. To make sure that it is possible we would refer to the [branch](https://github.com/anonymousUser303/submission303/commit/d342f82e6ce1795a141fe8ae84fa2cbef2bd20f8) . Though the code is still in active development, it is possible that the software will improve over time.
+The code has been made available for reproducing the results we show in our papers. To make sure that it is possible we would refer to the [branch](https://github.com/anonymousUser303/submission303/commit/09383e50dcab1ca07b6ffd32afb48c35c949d8fc). Though the code is still in active development, it is possible that the software will improve over time. On the website <https://anonymoususer303.github.io/submission303/> you can find more information about the anti-patterns.
 
 Overview of the Algorithm
 -------
